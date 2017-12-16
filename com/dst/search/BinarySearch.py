@@ -3,7 +3,7 @@ Created on 14-Dec-2017
 
 @author: DELL
 '''
-from com.dst.search.BubbleSort import BubbleSort
+from com.dst.sorting.BubbleSort import BubbleSort
 
 class BinarySearch:
     
